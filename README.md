@@ -45,26 +45,19 @@ MATLAB script for signal generation and FFT output analysis
 Generated input samples for FPGA
 ### fft_output.txt
 FFT output data generated during simulation
-## README.md
-Project documentation
-Output Results
-The FFT spectrum shows peaks at:
-1000 Hz
-2000 Hz
-This confirms that the FPGA FFT correctly detects the frequency components of the input signal.
-# Applications
+## Applications
 FFT-based spectrum analyzers are widely used in:
 - Wireless communication systems
 - Radar signal processing
 - Audio signal analysis
 - Biomedical signal processing
 - Software-defined radio (SDR)
-# Future Improvements
+# #Future Improvements
 Possible extensions of this project:
-> Implement real-time FPGA hardware testing on board
-> Add UART or Ethernet interface for live data
-> Display spectrum using MATLAB GUI or Python visualization
-> Implement higher resolution FFT (2048 / 4096 points)
+- Implement real-time FPGA hardware testing on board
+- Add UART or Ethernet interface for live data
+- Display spectrum using MATLAB GUI or Python visualization
+- Implement higher resolution FFT (2048 / 4096 points)
 
 ## Author
 Kanaparthi Sai Spurthi
