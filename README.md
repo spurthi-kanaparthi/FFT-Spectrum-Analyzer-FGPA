@@ -54,18 +54,18 @@ The FFT spectrum shows peaks at:
 This confirms that the FPGA FFT correctly detects the frequency components of the input signal.
 # Applications
 FFT-based spectrum analyzers are widely used in:
-Wireless communication systems
-Radar signal processing
-Audio signal analysis
-Biomedical signal processing
-Software-defined radio (SDR)
+- Wireless communication systems
+- Radar signal processing
+- Audio signal analysis
+- Biomedical signal processing
+- Software-defined radio (SDR)
 # Future Improvements
 Possible extensions of this project:
-Implement real-time FPGA hardware testing on board
-Add UART or Ethernet interface for live data
-Display spectrum using MATLAB GUI or Python visualization
-Implement higher resolution FFT (2048 / 4096 points)
+> Implement real-time FPGA hardware testing on board
+> Add UART or Ethernet interface for live data
+> Display spectrum using MATLAB GUI or Python visualization
+> Implement higher resolution FFT (2048 / 4096 points)
 
-# Author
-# kanaparthi Sai Spurthi
-# Electronics / FPGA Enthusiast
+## Author
+kanaparthi Sai Spurthi
+Electronics / FPGA Enthusiast
