@@ -47,7 +47,7 @@ Generated input samples for FPGA
 FFT output data generated during simulation
 
 ## Project Structure
-
+'''
 FFT-Spectrum-Analyzer-FPGA
 │
 ├── fft_top.v
@@ -70,7 +70,7 @@ FFT-Spectrum-Analyzer-FPGA
 │
 └── README.md
     Documentation describing the project, workflow, and results.
-    
+'''    
 ## How to Run
 1. Run the MATLAB script fft_project.m to generate input_signal.txt.
 2. Run behavioral simulation in Vivado using fft_tb.v.
