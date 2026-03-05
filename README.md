@@ -67,5 +67,5 @@ Possible extensions of this project:
 > Implement higher resolution FFT (2048 / 4096 points)
 
 ## Author
-kanaparthi Sai Spurthi
-Electronics / FPGA Enthusiast
+Kanaparthi Sai Spurthi
+(Electronics / FPGA Enthusiast)
